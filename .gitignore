@@ -1,0 +1,4 @@
+/target
+
+# Ignore the .env file as it contains sensitive API keys and passwords
+.env
